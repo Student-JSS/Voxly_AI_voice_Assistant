@@ -15,7 +15,7 @@ const privateCors =
   cors({
 
     origin: [
-      "http://localhost:5173"
+      "https://voxly-ai-voice-assistant-2.onrender.com"
     ],
 
     credentials: true
