@@ -184,22 +184,22 @@ Backend: http://localhost:8000
 Add screenshot here
 
 ```md
-![Home Page](<img width="1891" height="860" alt="image" src="https://github.com/user-attachments/assets/a836aa97-9c81-4d7a-ae07-22a41b52c2ad" />
-)
+<img width="1898" height="860" alt="image" src="https://github.com/user-attachments/assets/63c60061-b2dc-4aac-8bf7-3184fd1a83d9" />
+
 ```
 
 ### Voice Assistant Interface
 
 ```md
-![Voice Assistant](<img width="1905" height="868" alt="image" src="https://github.com/user-attachments/assets/79cde791-524b-442c-bffc-d6277d6c1384" />
-)
+<img width="1895" height="860" alt="image" src="https://github.com/user-attachments/assets/ff547ebb-c0c7-40da-afa9-5e8ae4ef73d6" />
+
 ```
 
 ### Pricing Page
 
 ```md
-![Pricing](<img width="1902" height="864" alt="image" src="https://github.com/user-attachments/assets/a9738a28-9142-4ef8-b5db-bdf827e4a484" />
-)
+<img width="1895" height="860" alt="image" src="https://github.com/user-attachments/assets/05b5d6d8-d3a6-4d89-9fb5-d3af0c458a68" />
+
 ```
 
 ---
@@ -286,9 +286,6 @@ git push origin feature-name
 - AI/ML Enthusiast
 - SaaS Builder
 
-GitHub: https://github.com/your-github
-
-LinkedIn: https://linkedin.com/in/your-linkedin
 
 ---
 
